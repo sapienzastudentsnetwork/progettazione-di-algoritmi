@@ -6,7 +6,6 @@ Collezione di [**esercizi**](https://github.com/sapienzastudentsnetwork/progetta
 - [grafi](https://github.com/sapienzastudentsnetwork/progettazione-di-algoritmi/discussions?discussions_q=is%3Aopen+label%3Agrafi)
 - [divide et impera](https://github.com/sapienzastudentsnetwork/progettazione-di-algoritmi/discussions?discussions_q=is%3Aopen+label%3AD%26I)
 - [dynamic programming](https://github.com/sapienzastudentsnetwork/progettazione-di-algoritmi/discussions?discussions_q=is%3Aopen+label%3Adp)
-
 - [scrivere pseudocodice](https://github.com/sapienzastudentsnetwork/progettazione-di-algoritmi/discussions?discussions_q=is%3Aopen+label%3Agrafi)
 - [esercizi teorici](https://github.com/sapienzastudentsnetwork/progettazione-di-algoritmi/discussions?discussions_q=is%3Aopen+label%3Ateoria)
 - [altro...](https://github.com/sapienzastudentsnetwork/progettazione-di-algoritmi/discussions)
