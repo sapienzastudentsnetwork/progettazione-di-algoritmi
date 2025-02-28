@@ -28,6 +28,7 @@ Questo forum di scambio e confronto di soluzioni agli esercizi di Progettazione 
 In questi forum chiunque può contribuire aggiungendo non solo proposte di soluzione o commenti, ma anche [aggiungendo esercizi tratti da tracce d'esame](../../../discussions/new?category=esami-m-z), [aggiungendo esercizi per casa](../../../discussions/new?category=esercizi-m-z) o [aggiungendo esercizi tratti da esercitazioni](../../../discussions/new?category=esercitazioni-m-z), e se volessi essere ancora più di aiuto puoi unirti anche alla gestione 🙂
 
 Attualmente, questo forum, nella sua parte M-Z in particolare, è gestito dai seguenti colleghi:
+- Matteo **Collica**  ([@Matypist](https://github.com/matypist)) [[Telegram](https://t.me/matypist)]
 - Aglaia **Norza** ([@AglaiaNorza](https://github.com/aglaianorza)) [[Telegram](https://t.me/aglaianorza)]
 - Alessio **Marini** ([@alem1105](https://github.com/alem1105)) [[Telegram](https://t.me/alem1153)]
 - Luca **Martinelli** ([@luckignolo32](https://github.com/luckignolo32)) [[Telegram](https://t.me/LucaM1655)]
