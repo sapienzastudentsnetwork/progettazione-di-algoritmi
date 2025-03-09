@@ -18,6 +18,11 @@ Questo forum di scambio e confronto di soluzioni agli esercizi di Progettazione 
 - [Esercitazioni](../../../discussions/categories/esercitazioni-m-z)
 - [Esercizi d'esame](../../../discussions/categories/esami-m-z)
 
+### Filtri per traccia di esame
+| Anno      |                                                                                    | 
+|-----------|------------------------------------------------------------------------------------| 
+| **2022** | [febbraio](../../../discussions?discussions_q=label%3A"febbraio+2022+%5BM-Z%5D")|
+| **2021** | [giugno](../../../discussions?discussions_q=label%3A"giugno+2021+%5BM-Z%5D") |
 ## 🗃 Risorse utili
 
 - [**Sito Web del Corso**](https://twiki.di.uniroma1.it/twiki/view/Algoritmi2/WebHome) >> contiene le informazioni del corso, il programma e il diario delle lezioni e delle esercitazioni per il canale M-Z dell'A.A. 2024/25
