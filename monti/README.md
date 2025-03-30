@@ -25,6 +25,13 @@ Questo forum di scambio e confronto di soluzioni agli esercizi di Progettazione 
 | **2021** | [giugno](../../../discussions?discussions_q=label%3A"giugno+2021+%5BM-Z%5D") |
 | **2024** | [esonero aprile](../../../discussions?discussions_q=label%3A"Esonero+aprile+2024+[M-Z]") |
 
+### Filtri per Lezione
+
+| | | | | | | | 
+|-|-|-|-|-|-|-|
+| [L2](../../../discussions?discussions_q=is%3Aopen+category%3A"Esercizi+M-Z"+label%3A"Lez02A2Grafi1+[M-Z]") | [L3](../../../discussions?discussions_q=is%3Aopen+category%3A"Esercizi+M-Z"+label%3A"Lez03A2Grafi2+[M-Z]") | [L4](../../../discussions?discussions_q=is%3Aopen+category%3A"Esercizi+M-Z"+label%3A"Lez04A2Grafi3+[M-Z]") | [L5](../../../discussions?discussions_q=is%3Aopen+category%3A"Esercizi+M-Z"+label%3ALez05A2OrdinamentoTopologico25) | [L6](../../../discussions?discussions_q=is%3Aopen+category%3A"Esercizi+M-Z"+label%3ALez06A2GrafiCicli25) | [L7](../../../discussions?discussions_q=is%3Aopen+category%3A"Esercizi+M-Z"+label%3ALez07A2grafiPonti25) | [L8](../../../discussions?discussions_q=is%3Aopen+category%3A"Esercizi+M-Z"+label%3ALez08A2grafiBFS25)
+
+
 ## 🗃 Risorse utili
 
 - [**Sito Web del Corso**](https://twiki.di.uniroma1.it/twiki/view/Algoritmi2/WebHome) >> contiene le informazioni del corso, il programma e il diario delle lezioni e delle esercitazioni per il canale M-Z dell'A.A. 2024/25
