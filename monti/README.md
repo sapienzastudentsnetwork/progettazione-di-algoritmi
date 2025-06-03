@@ -31,6 +31,13 @@ Questo forum di scambio e confronto di soluzioni agli esercizi di Progettazione 
 |-|-|-|-|-|-|-|
 | [L2](../../../discussions?discussions_q=is%3Aopen+category%3A"Esercizi+M-Z"+label%3A"Lez02A2Grafi1+[M-Z]") | [L3](../../../discussions?discussions_q=is%3Aopen+category%3A"Esercizi+M-Z"+label%3A"Lez03A2Grafi2+[M-Z]") | [L4](../../../discussions?discussions_q=is%3Aopen+category%3A"Esercizi+M-Z"+label%3A"Lez04A2Grafi3+[M-Z]") | [L5](../../../discussions?discussions_q=is%3Aopen+category%3A"Esercizi+M-Z"+label%3ALez05A2OrdinamentoTopologico25) | [L6](../../../discussions?discussions_q=is%3Aopen+category%3A"Esercizi+M-Z"+label%3ALez06A2GrafiCicli25) | [L7](../../../discussions?discussions_q=is%3Aopen+category%3A"Esercizi+M-Z"+label%3ALez07A2grafiPonti25) | [L8](../../../discussions?discussions_q=is%3Aopen+category%3A"Esercizi+M-Z"+label%3ALez08A2grafiBFS25)
 
+### Filtri per Argomento
+
+- [Grafi](../../../discussions?discussions_q=label%3Agrafi+category%3A"Esami+M-Z"+category%3A"Esercitazioni+M-Z"+category%3A"Esercizi+M-Z"+)
+- [Algoritmi Greedy](../../../discussions?discussions_q=category%3A"Esami+M-Z"+category%3A"Esercitazioni+M-Z"+category%3A"Esercizi+M-Z"+label%3Agreedy+)
+- [Algoritmi Divide Et Impera](../../../discussions?discussions_q=category%3A"Esami+M-Z"+category%3A"Esercitazioni+M-Z"+category%3A"Esercizi+M-Z"+label%3AD%26I)
+- [Progettazione Dinamica](../../../discussions?discussions_q=category%3A"Esami+M-Z"+category%3A"Esercitazioni+M-Z"+category%3A"Esercizi+M-Z"+label%3AProg.Dinamica)
+- [Progettazione Backtracking](../../../discussions?discussions_q=label%3Abacktracking+category%3A"Esercizi+M-Z"+category%3A"Esercitazioni+M-Z"+category%3A"Esercizi+M-Z")
 
 ## 🗃 Risorse utili
 
