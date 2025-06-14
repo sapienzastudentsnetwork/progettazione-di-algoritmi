@@ -24,6 +24,7 @@ Questo forum di scambio e confronto di soluzioni agli esercizi di Progettazione 
 | **2021** | [giugno](../../../discussions?discussions_q=label%3A"giugno+2021+%5BM-Z%5D") |
 | **2022** | [febbraio](../../../discussions?discussions_q=label%3A"febbraio+2022+%5BM-Z%5D")|
 | **2024** | [esonero aprile](../../../discussions?discussions_q=label%3A"Esonero+aprile+2024+[M-Z]") |
+| **2025** | [esonero maggio](../../../discussions?discussions_q=label%3A"esonero+maggio+2025+[M-Z]") |
 
 ### Filtri per Lezione
 
