@@ -18,7 +18,7 @@ Questo forum di scambio e confronto di soluzioni agli esercizi di Progettazione 
 - [Esercitazioni](../../../discussions/categories/esercitazioni-m-z)
 - [Esercizi d'esame](../../../discussions/categories/esami-m-z)
 
-### Filtri per traccia di esame
+### Filtri per traccia d'esame
 | Anno      |                                                                                    | 
 |-----------|------------------------------------------------------------------------------------| 
 | **2021** | [giugno](../../../discussions?discussions_q=label%3A"giugno+2021+%5BM-Z%5D") |
