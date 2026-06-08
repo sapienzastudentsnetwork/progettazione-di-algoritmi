@@ -12,114 +12,101 @@ Questo forum di scambio e confronto di soluzioni agli esercizi di Progettazione 
 
 ## 🔗 Collegamenti rapidi
 
-### Filtri per Tipologia (A/L)
-
-- [Esercizi per casa](../../../discussions/categories/esercizi-a-l)
-- [Esercitazioni](../../../discussions/categories/esercitazioni-a-l)
-- [Esercizi d'esame](../../../discussions/categories/esami-a-l)
-
-### Filtri per Traccia di Esame
-
 <div align="center">
 
 <table align="center">
     <tr>
-        <td colspan="6" align="center">
+        <td colspan="5" align="center">
             <h3> Esami precedenti (prof. Wollan - Paesani) </h3>
         </td>
     </tr>
     <tr>
-        <!-- ANNO 2019 -->
         <td align="center" valign="top">
             <table>
                 <tr>
                     <td align="center"><b>2019</b></td>
                 </tr>
                 <tr>
-                    <td align="center"><a href="../../../discussions/categories/esami-a-l?discussions_q=label%3A"8+febbraio+2019+[A-L]"+category%3A"Esami+A-L""> 8 febbraio </a></td>
+                    <td align="center"><a href="../../../discussions/categories/esami-a-l?discussions_q=label%3A&quot;8+febbraio+2019+[A-L]&quot;+category%3A&quot;Esami+A-L&quot;"> 8 febbraio </a></td>
                 </tr>
                 <tr>
-                    <td align="center"><a href="../../../discussions/categories/esami-a-l?discussions_q=label%3A"10+giugno+2019+[A-L]"+category%3A"Esami+A-L""> 10 giugno </a></td>
+                    <td align="center"><a href="../../../discussions/categories/esami-a-l?discussions_q=label%3A&quot;10+giugno+2019+[A-L]&quot;+category%3A&quot;Esami+A-L&quot;"> 10 giugno </a></td>
                 </tr>
             </table>
         </td>
-        <!-- ANNO 2023 -->
         <td align="center" valign="top">
             <table>
                 <tr>
                     <td align="center"><b>2023</b></td>
                 </tr>
                 <tr>
-                    <td align="center"><a href="../../../discussions/categories/esami-a-l?discussions_q=label%3A"12+gennaio+2023+[A-L]"+category%3A"Esami+A-L""> 12 gennaio </a></td>
+                    <td align="center"><a href="../../../discussions/categories/esami-a-l?discussions_q=label%3A&quot;12+gennaio+2023+[A-L]&quot;+category%3A&quot;Esami+A-L&quot;"> 12 gennaio </a></td>
                 </tr>
                 <tr>
-                    <td align="center"><a href="../../../discussions/categories/esami-a-l?discussions_q=label%3A"7+luglio+2023+[A-L]"+category%3A"Esami+A-L""> 7 luglio </a></td>
+                    <td align="center"><a href="../../../discussions/categories/esami-a-l?discussions_q=label%3A&quot;7+luglio+2023+[A-L]&quot;+category%3A&quot;Esami+A-L&quot;"> 7 luglio </a></td>
                 </tr>
                 <tr>
-                    <td align="center"><a href="../../../discussions/categories/esami-a-l?discussions_q=label%3A"23+ottobre+2023+[A-L]"+category%3A"Esami+A-L""> 23 ottobre </a></td>
+                    <td align="center"><a href="../../../discussions/categories/esami-a-l?discussions_q=label%3A&quot;23+ottobre+2023+[A-L]&quot;+category%3A&quot;Esami+A-L&quot;"> 23 ottobre </a></td>
                 </tr>
             </table>
         </td>
-        <!-- ANNO 2024 -->
         <td align="center" valign="top">
             <table>
                 <tr>
                     <td align="center"><b>2024</b></td>
                 </tr>
                 <tr>
-                    <td align="center"><a href="../../../discussions/categories/esami-a-l?discussions_q=label%3A"19+febbraio+2024+[A-L]"+category%3A"Esami+A-L""> 19 febbraio </a></td>
+                    <td align="center"><a href="../../../discussions/categories/esami-a-l?discussions_q=label%3A&quot;19+febbraio+2024+[A-L]&quot;+category%3A&quot;Esami+A-L&quot;"> 19 febbraio </a></td>
                 </tr>
                 <tr>
-                    <td align="center"><a href="../../../discussions/categories/esami-a-l?discussions_q=label%3A"18+giugno+2024+[A-L]"+category%3A"Esami+A-L""> 18 giugno </a></td>
+                    <td align="center"><a href="../../../discussions/categories/esami-a-l?discussions_q=label%3A&quot;18+giugno+2024+[A-L]&quot;+category%3A&quot;Esami+A-L&quot;"> 18 giugno </a></td>
                 </tr>
                 <tr>
-                    <td align="center"><a href="../../../discussions/categories/esami-a-l?discussions_q=label%3A"23+luglio+2024+[A-L]"+category%3A"Esami+A-L""> 23 luglio </a></td>
+                    <td align="center"><a href="../../../discussions/categories/esami-a-l?discussions_q=label%3A&quot;23+luglio+2024+[A-L]&quot;+category%3A&quot;Esami+A-L&quot;"> 23 luglio </a></td>
                 </tr>
                 <tr>
-                    <td align="center"><a href="../../../discussions/categories/esami-a-l?discussions_q=label%3A"10+settembre+2024+[A-L]"+category%3A"Esami+A-L""> 10 settembre </a></td>
+                    <td align="center"><a href="../../../discussions/categories/esami-a-l?discussions_q=label%3A&quot;10+settembre+2024+[A-L]&quot;+category%3A&quot;Esami+A-L&quot;"> 10 settembre </a></td>
                 </tr>
                 <tr>
-                    <td align="center"><a href="../../../discussions/categories/esami-a-l?discussions_q=label%3A"23+ottobre+2024+[A-L]"+category%3A"Esami+A-L""> 23 ottobre </a></td>
+                    <td align="center"><a href="../../../discussions/categories/esami-a-l?discussions_q=label%3A&quot;23+ottobre+2024+[A-L]&quot;+category%3A&quot;Esami+A-L&quot;"> 23 ottobre </a></td>
                 </tr>
             </table>
         </td>
-        <!-- ANNO 2025 -->
         <td align="center" valign="top">
             <table>
                 <tr>
                     <td align="center"><b>2025</b></td>
                 </tr>
                 <tr>
-                    <td align="center"><a href="../../../discussions/categories/esami-a-l?discussions_q=label%3A"20+gennaio+2025+[A-L]"+category%3A"Esami+A-L""> 20 gennaio </a></td>
+                    <td align="center"><a href="../../../discussions/categories/esami-a-l?discussions_q=label%3A&quot;20+gennaio+2025+[A-L]&quot;+category%3A&quot;Esami+A-L&quot;"> 20 gennaio </a></td>
                 </tr>
                 <tr>
-                    <td align="center"><a href="../../../discussions/categories/esami-a-l?discussions_q=label%3A"20+febbraio+2025+[A-L]"+category%3A"Esami+A-L""> 20 febbraio </a></td>
+                    <td align="center"><a href="../../../discussions/categories/esami-a-l?discussions_q=label%3A&quot;20+febbraio+2025+[A-L]&quot;+category%3A&quot;Esami+A-L&quot;"> 20 febbraio </a></td>
                 </tr>
                 <tr>
-                    <td align="center"><a href="../../../discussions/categories/esami-a-l?discussions_q=label%3A"10+aprile+2025+[A-L]"+category%3A"Esami+A-L""> 10 aprile </a></td>
+                    <td align="center"><a href="../../../discussions/categories/esami-a-l?discussions_q=label%3A&quot;10+aprile+2025+[A-L]&quot;+category%3A&quot;Esami+A-L&quot;"> 10 aprile </a></td>
                 </tr>
                 <tr>
-                    <td align="center"><a href="../../../discussions/categories/esami-a-l?discussions_q=label%3A"5+giugno+2025+[A-L]"+category%3A"Esami+A-L""> 5 giugno </a></td>
+                    <td align="center"><a href="../../../discussions/categories/esami-a-l?discussions_q=label%3A&quot;5+giugno+2025+[A-L]&quot;+category%3A&quot;Esami+A-L&quot;"> 5 giugno </a></td>
                 </tr>
                 <tr>
-                    <td align="center"><a href="../../../discussions/categories/esami-a-l?discussions_q=label%3A"4+luglio+2025+[A-L]"+category%3A"Esami+A-L""> 4 luglio </a></td>
+                    <td align="center"><a href="../../../discussions/categories/esami-a-l?discussions_q=label%3A&quot;4+luglio+2025+[A-L]&quot;+category%3A&quot;Esami+A-L&quot;"> 4 luglio </a></td>
                 </tr>
                 <tr>
-                    <td align="center"><a href="../../../discussions/categories/esami-a-l?discussions_q=label%3A"15+settembre+2025+[A-L]"+category%3A"Esami+A-L""> 15 settembre </a></td>
+                    <td align="center"><a href="../../../discussions/categories/esami-a-l?discussions_q=label%3A&quot;15+settembre+2025+[A-L]&quot;+category%3A&quot;Esami+A-L&quot;"> 15 settembre </a></td>
                 </tr>
                 <tr>
-                    <td align="center"><a href="../../../discussions/categories/esami-a-l?discussions_q=label%3A"5+novembre+2025+[A-L]"+category%3A"Esami+A-L""> 5 novembre </a></td>
+                    <td align="center"><a href="../../../discussions/categories/esami-a-l?discussions_q=label%3A&quot;5+novembre+2025+[A-L]&quot;+category%3A&quot;Esami+A-L&quot;"> 5 novembre </a></td>
                 </tr>
             </table>
         </td>
-        <!-- ANNO 2026 -->
         <td align="center" valign="top">
             <table>
                 <tr>
                     <td align="center"><b>2026</b></td>
                 </tr>
                 <tr>
-                    <td align="center"><a href="../../../discussions/categories/esami-a-l?discussions_q=label%3A"22+gennaio+2026+[A-L]"+category%3A"Esami+A-L""> 22 gennaio </a></td>
+                    <td align="center"><a href="../../../discussions/categories/esami-a-l?discussions_q=label%3A&quot;22+gennaio+2026+[A-L]&quot;+category%3A&quot;Esami+A-L&quot;"> 22 gennaio </a></td>
                 </tr>
             </table>
         </td>
@@ -127,6 +114,12 @@ Questo forum di scambio e confronto di soluzioni agli esercizi di Progettazione 
 </table>
 
 </div>
+
+### Filtri per Tipologia (A/L)
+
+- [Esercizi per casa](../../../discussions/categories/esercizi-a-l)
+- [Esercitazioni](../../../discussions/categories/esercitazioni-a-l)
+- [Esercizi d'esame](../../../discussions/categories/esami-a-l)
 
 ## 🗃 Risorse utili
 
