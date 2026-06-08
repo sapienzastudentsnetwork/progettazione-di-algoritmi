@@ -27,8 +27,8 @@ Questo forum di scambio e confronto di soluzioni agli esercizi di Progettazione 
 - [23 ottobre 2023](../../../discussions/categories/esami-a-l?discussions_q=label%3A"23+ottobre+2023+[A-L]"+category%3A"Esami+A-L")
 - [7 luglio 2023](../../../discussions/categories/esami-a-l?discussions_q=label%3A"7+luglio+2023+[A-L]"+category%3A"Esami+A-L")
 - [12 gennaio 2023](../../../discussions/categories/esami-a-l?discussions_q=label%3A"12+gennaio+2023+[A-L]"+category%3A"Esami+A-L")
-- [8 febbraio 2019](../../../discussions/categories/esami-a-l?discussions_q=label%3A"8+febbraio+2019+[A-L]"+category%3A"Esami+A-L")
 - [10 giugno 2019](../../../discussions/categories/esami-a-l?discussions_q=label%3A"10+giugno+2019+[A-L]"+category%3A"Esami+A-L")
+- [8 febbraio 2019](../../../discussions/categories/esami-a-l?discussions_q=label%3A"8+febbraio+2019+[A-L]"+category%3A"Esami+A-L")
 
 ## 🗃 Risorse utili
 
