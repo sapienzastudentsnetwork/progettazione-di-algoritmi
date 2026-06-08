@@ -17,7 +17,7 @@ Questo forum di scambio e confronto di soluzioni agli esercizi di Progettazione 
 <table align="center">
     <tr>
         <td colspan="5" align="center">
-            <h3> Esami precedenti (prof. Wollan - Paesani) </h3>
+            <h3> Esami precedenti (prof. Wollan) </h3>
         </td>
     </tr>
     <tr>
