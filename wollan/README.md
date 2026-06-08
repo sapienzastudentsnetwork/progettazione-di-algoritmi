@@ -16,7 +16,7 @@ Questo forum di scambio e confronto di soluzioni agli esercizi di Progettazione 
 
 <table align="center">
     <tr>
-        <td colspan="5" align="center">
+        <td colspan="3" align="center">
             <h3> Esami precedenti (prof. Wollan) </h3>
         </td>
     </tr>
@@ -72,6 +72,8 @@ Questo forum di scambio e confronto di soluzioni agli esercizi di Progettazione 
                 </tr>
             </table>
         </td>
+    </tr>
+    <tr>
         <td align="center" valign="top">
             <table>
                 <tr>
@@ -110,6 +112,7 @@ Questo forum di scambio e confronto di soluzioni agli esercizi di Progettazione 
                 </tr>
             </table>
         </td>
+        <td></td>
     </tr>
 </table>
 
