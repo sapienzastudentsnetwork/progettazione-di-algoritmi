@@ -20,6 +20,15 @@ Questo forum di scambio e confronto di soluzioni agli esercizi di Progettazione 
 
 ### Filtri per Traccia di Esame
 
+- [22 gennaio 2026](../../../discussions/categories/esami-a-l?discussions_q=label%3A"22+gennaio+2026+[A-L]"+category%3A"Esami+A-L")
+- [5 novembre 2025](../../../discussions/categories/esami-a-l?discussions_q=label%3A"5+novembre+2025+[A-L]"+category%3A"Esami+A-L")
+- [15 settembre 2025](../../../discussions/categories/esami-a-l?discussions_q=label%3A"15+settembre+2025+[A-L]"+category%3A"Esami+A-L")
+- [4 luglio 2025](../../../discussions/categories/esami-a-l?discussions_q=label%3A"4+luglio+2025+[A-L]"+category%3A"Esami+A-L")
+- [5 giugno 2025](../../../discussions/categories/esami-a-l?discussions_q=label%3A"5+giugno+2025+[A-L]"+category%3A"Esami+A-L")
+- [10 aprile 2025](../../../discussions/categories/esami-a-l?discussions_q=label%3A"10+aprile+2025+[A-L]"+category%3A"Esami+A-L")
+- [20 febbraio 2025](../../../discussions/categories/esami-a-l?discussions_q=label%3A"20+febbraio+2025+[A-L]"+category%3A"Esami+A-L")
+- [20 gennaio 2025](../../../discussions/categories/esami-a-l?discussions_q=label%3A"20+gennaio+2025+[A-L]"+category%3A"Esami+A-L")
+- [23 ottobre 2024](../../../discussions/categories/esami-a-l?discussions_q=label%3A"23+ottobre+2024+[A-L]"+category%3A"Esami+A-L")
 - [10 settembre 2024](../../../discussions/categories/esami-a-l?discussions_q=label%3A"10+settembre+2024+[A-L]"+category%3A"Esami+A-L")
 - [23 luglio 2024](../../../discussions/categories/esami-a-l?discussions_q=label%3A"23+luglio+2024+[A-L]"+category%3A"Esami+A-L")
 - [18 giugno 2024](../../../discussions/categories/esami-a-l?discussions_q=label%3A"18+giugno+2024+[A-L]"+category%3A"Esami+A-L")
