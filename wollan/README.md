@@ -1,4 +1,4 @@
-# [A.A. 2024/25] Wollan - Paesani (A/L)
+# [A.A. 2025/26] Wollan - Paesani (A/L)
 
 ## 🗂 Indice
 
@@ -20,24 +20,113 @@ Questo forum di scambio e confronto di soluzioni agli esercizi di Progettazione 
 
 ### Filtri per Traccia di Esame
 
-- [22 gennaio 2026](../../../discussions/categories/esami-a-l?discussions_q=label%3A"22+gennaio+2026+[A-L]"+category%3A"Esami+A-L")
-- [5 novembre 2025](../../../discussions/categories/esami-a-l?discussions_q=label%3A"5+novembre+2025+[A-L]"+category%3A"Esami+A-L")
-- [15 settembre 2025](../../../discussions/categories/esami-a-l?discussions_q=label%3A"15+settembre+2025+[A-L]"+category%3A"Esami+A-L")
-- [4 luglio 2025](../../../discussions/categories/esami-a-l?discussions_q=label%3A"4+luglio+2025+[A-L]"+category%3A"Esami+A-L")
-- [5 giugno 2025](../../../discussions/categories/esami-a-l?discussions_q=label%3A"5+giugno+2025+[A-L]"+category%3A"Esami+A-L")
-- [10 aprile 2025](../../../discussions/categories/esami-a-l?discussions_q=label%3A"10+aprile+2025+[A-L]"+category%3A"Esami+A-L")
-- [20 febbraio 2025](../../../discussions/categories/esami-a-l?discussions_q=label%3A"20+febbraio+2025+[A-L]"+category%3A"Esami+A-L")
-- [20 gennaio 2025](../../../discussions/categories/esami-a-l?discussions_q=label%3A"20+gennaio+2025+[A-L]"+category%3A"Esami+A-L")
-- [23 ottobre 2024](../../../discussions/categories/esami-a-l?discussions_q=label%3A"23+ottobre+2024+[A-L]"+category%3A"Esami+A-L")
-- [10 settembre 2024](../../../discussions/categories/esami-a-l?discussions_q=label%3A"10+settembre+2024+[A-L]"+category%3A"Esami+A-L")
-- [23 luglio 2024](../../../discussions/categories/esami-a-l?discussions_q=label%3A"23+luglio+2024+[A-L]"+category%3A"Esami+A-L")
-- [18 giugno 2024](../../../discussions/categories/esami-a-l?discussions_q=label%3A"18+giugno+2024+[A-L]"+category%3A"Esami+A-L")
-- [19 febbraio 2024](../../../discussions/categories/esami-a-l?discussions_q=label%3A"19+febbraio+2024+[A-L]"+category%3A"Esami+A-L")
-- [23 ottobre 2023](../../../discussions/categories/esami-a-l?discussions_q=label%3A"23+ottobre+2023+[A-L]"+category%3A"Esami+A-L")
-- [7 luglio 2023](../../../discussions/categories/esami-a-l?discussions_q=label%3A"7+luglio+2023+[A-L]"+category%3A"Esami+A-L")
-- [12 gennaio 2023](../../../discussions/categories/esami-a-l?discussions_q=label%3A"12+gennaio+2023+[A-L]"+category%3A"Esami+A-L")
-- [10 giugno 2019](../../../discussions/categories/esami-a-l?discussions_q=label%3A"10+giugno+2019+[A-L]"+category%3A"Esami+A-L")
-- [8 febbraio 2019](../../../discussions/categories/esami-a-l?discussions_q=label%3A"8+febbraio+2019+[A-L]"+category%3A"Esami+A-L")
+<div align="center">
+
+<table align="center">
+    <tr>
+        <td colspan="6" align="center">
+            <h3> Esami precedenti (prof. Wollan - Paesani) </h3>
+        </td>
+    </tr>
+    <tr>
+        <!-- ANNO 2019 -->
+        <td align="center" valign="top">
+            <table>
+                <tr>
+                    <td align="center"><b>2019</b></td>
+                </tr>
+                <tr>
+                    <td align="center"><a href="../../../discussions/categories/esami-a-l?discussions_q=label%3A"8+febbraio+2019+[A-L]"+category%3A"Esami+A-L""> 8 febbraio </a></td>
+                </tr>
+                <tr>
+                    <td align="center"><a href="../../../discussions/categories/esami-a-l?discussions_q=label%3A"10+giugno+2019+[A-L]"+category%3A"Esami+A-L""> 10 giugno </a></td>
+                </tr>
+            </table>
+        </td>
+        <!-- ANNO 2023 -->
+        <td align="center" valign="top">
+            <table>
+                <tr>
+                    <td align="center"><b>2023</b></td>
+                </tr>
+                <tr>
+                    <td align="center"><a href="../../../discussions/categories/esami-a-l?discussions_q=label%3A"12+gennaio+2023+[A-L]"+category%3A"Esami+A-L""> 12 gennaio </a></td>
+                </tr>
+                <tr>
+                    <td align="center"><a href="../../../discussions/categories/esami-a-l?discussions_q=label%3A"7+luglio+2023+[A-L]"+category%3A"Esami+A-L""> 7 luglio </a></td>
+                </tr>
+                <tr>
+                    <td align="center"><a href="../../../discussions/categories/esami-a-l?discussions_q=label%3A"23+ottobre+2023+[A-L]"+category%3A"Esami+A-L""> 23 ottobre </a></td>
+                </tr>
+            </table>
+        </td>
+        <!-- ANNO 2024 -->
+        <td align="center" valign="top">
+            <table>
+                <tr>
+                    <td align="center"><b>2024</b></td>
+                </tr>
+                <tr>
+                    <td align="center"><a href="../../../discussions/categories/esami-a-l?discussions_q=label%3A"19+febbraio+2024+[A-L]"+category%3A"Esami+A-L""> 19 febbraio </a></td>
+                </tr>
+                <tr>
+                    <td align="center"><a href="../../../discussions/categories/esami-a-l?discussions_q=label%3A"18+giugno+2024+[A-L]"+category%3A"Esami+A-L""> 18 giugno </a></td>
+                </tr>
+                <tr>
+                    <td align="center"><a href="../../../discussions/categories/esami-a-l?discussions_q=label%3A"23+luglio+2024+[A-L]"+category%3A"Esami+A-L""> 23 luglio </a></td>
+                </tr>
+                <tr>
+                    <td align="center"><a href="../../../discussions/categories/esami-a-l?discussions_q=label%3A"10+settembre+2024+[A-L]"+category%3A"Esami+A-L""> 10 settembre </a></td>
+                </tr>
+                <tr>
+                    <td align="center"><a href="../../../discussions/categories/esami-a-l?discussions_q=label%3A"23+ottobre+2024+[A-L]"+category%3A"Esami+A-L""> 23 ottobre </a></td>
+                </tr>
+            </table>
+        </td>
+        <!-- ANNO 2025 -->
+        <td align="center" valign="top">
+            <table>
+                <tr>
+                    <td align="center"><b>2025</b></td>
+                </tr>
+                <tr>
+                    <td align="center"><a href="../../../discussions/categories/esami-a-l?discussions_q=label%3A"20+gennaio+2025+[A-L]"+category%3A"Esami+A-L""> 20 gennaio </a></td>
+                </tr>
+                <tr>
+                    <td align="center"><a href="../../../discussions/categories/esami-a-l?discussions_q=label%3A"20+febbraio+2025+[A-L]"+category%3A"Esami+A-L""> 20 febbraio </a></td>
+                </tr>
+                <tr>
+                    <td align="center"><a href="../../../discussions/categories/esami-a-l?discussions_q=label%3A"10+aprile+2025+[A-L]"+category%3A"Esami+A-L""> 10 aprile </a></td>
+                </tr>
+                <tr>
+                    <td align="center"><a href="../../../discussions/categories/esami-a-l?discussions_q=label%3A"5+giugno+2025+[A-L]"+category%3A"Esami+A-L""> 5 giugno </a></td>
+                </tr>
+                <tr>
+                    <td align="center"><a href="../../../discussions/categories/esami-a-l?discussions_q=label%3A"4+luglio+2025+[A-L]"+category%3A"Esami+A-L""> 4 luglio </a></td>
+                </tr>
+                <tr>
+                    <td align="center"><a href="../../../discussions/categories/esami-a-l?discussions_q=label%3A"15+settembre+2025+[A-L]"+category%3A"Esami+A-L""> 15 settembre </a></td>
+                </tr>
+                <tr>
+                    <td align="center"><a href="../../../discussions/categories/esami-a-l?discussions_q=label%3A"5+novembre+2025+[A-L]"+category%3A"Esami+A-L""> 5 novembre </a></td>
+                </tr>
+            </table>
+        </td>
+        <!-- ANNO 2026 -->
+        <td align="center" valign="top">
+            <table>
+                <tr>
+                    <td align="center"><b>2026</b></td>
+                </tr>
+                <tr>
+                    <td align="center"><a href="../../../discussions/categories/esami-a-l?discussions_q=label%3A"22+gennaio+2026+[A-L]"+category%3A"Esami+A-L""> 22 gennaio </a></td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+</table>
+
+</div>
 
 ## 🗃 Risorse utili
 
