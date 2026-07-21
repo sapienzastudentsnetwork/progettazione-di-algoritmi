@@ -113,6 +113,9 @@ Questo forum di scambio e confronto di soluzioni agli esercizi di Progettazione 
                 <tr>
                     <td align="center"><a href="../../../discussions/categories/esami-a-l?discussions_q=label%3A&quot;4+giugno+2026+[A-L]&quot;+category%3A&quot;Esami+A-L&quot;"> 4 giugno </a></td>
                 </tr>
+                <tr>
+                    <td align="center"><a href="../../../discussions/categories/esami-a-l?discussions_q=label%3A&quot;8+luglio+2026+[A-L]&quot;+category%3A&quot;Esami+A-L&quot;"> 8 luglio </a></td>
+                </tr>
             </table>
         </td>
         <td></td>
